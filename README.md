@@ -28,12 +28,10 @@ Coleção de notebooks, imagens e roteiros utilizados nas aulas de NLP do curso 
 
 ### Setup (venv + dependências)
 ```bash
-python -m venv .venv
-source .venv/bin/activate  # Windows: .venv\Scripts\activate
-python -m pip install --upgrade pip
-pip install jupyter numpy pandas scikit-learn nltk gensim matplotlib \
-            torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
-pip install transformers[torch] datasets seqeval spacy tqdm
+python -m venv venv
+source venv/bin/activate  # Windows: venv\Scripts\activate
+pip install --upgrade pip
+pip install -r requirements.txt
 ```
 
 ### Downloads adicionais
