@@ -1,0 +1,16 @@
+jupyterlab
+ipykernel
+numpy
+pandas
+matplotlib
+scikit-learn
+nltk
+gensim
+tqdm
+spacy
+torch
+torchvision
+torchaudio
+transformers
+datasets
+seqeval
