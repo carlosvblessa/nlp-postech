@@ -14,3 +14,4 @@ torchaudio
 transformers
 datasets
 seqeval
+scikit-learn-intelex
