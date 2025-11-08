@@ -13,10 +13,12 @@ runs/
 
 data/
 outputs/
+Bases/
 
 
 # Model files
 *.pth
+*.pkl
 
 # Logs and outputs
 **/logs/*.log
