@@ -19,6 +19,8 @@ Bases/
 # Model files
 *.pth
 *.pkl
+*.sd
+*.pt
 
 # Logs and outputs
 **/logs/*.log
